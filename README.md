@@ -4,7 +4,7 @@
 
 [cz-6](https://github.com/cz-6) [仓库](https://github.com/cz-6/cz-6.github.io)
 
-[示例视频](https://cz-6.github.io/example.html)
+[示例视频](https://cz-6.github.io/f/)
 
 写给我的鱼同学:
 
