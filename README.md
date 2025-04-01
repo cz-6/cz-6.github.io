@@ -4,6 +4,8 @@
 
 [cz-6](https://github.com/cz-6)------------[仓库](https://github.com/cz-6/cz-6.github.io)
 
+记得Star，加快更新速度，更容易查找，并且能在更新时收到通知
+
 [测试文件传输&网速:示例视频](https://cz-6.github.io/f/example.mp4)
 
 写给我的鱼同学:
