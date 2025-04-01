@@ -1,6 +1,6 @@
 # cz-6.github.io
 
-[cz-6现在是Amb114/Amb114514短名称（不保证全平台有效）](https://github.com/Amb114)
+[cz-6现在是Amb114/Amb114514短名称（仅Github有效）](https://github.com/Amb114)
 
 [cz-6](https://github.com/cz-6)------------[仓库](https://github.com/cz-6/cz-6.github.io)
 
