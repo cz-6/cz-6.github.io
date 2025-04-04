@@ -6,7 +6,7 @@
 
 记得Star，加快更新速度，更容易查找，并且能在更新时收到通知
 
-[测试中国大陆的下载速度](https://autopatchcn.yuanshen.com/client_app/update/hk4e_cn/game_4.8.0_5.1.0_hdiff_tVANuDpJCgAdJjPC.zip)
+[测试中国大陆的下载速度](https://autopatchcn.yuanshen.com/client_app/download/pc_zip/20230821151113_kRtiSWdMasWNheoV/YuanShen_4.0.1.zip)–-----[港澳台](https://autopatchhk.yuanshen.com/client_app/download/pc_zip/20230821151229_NAlBxGiyKlVXWZQJ/GenshinImpact_4.0.1.zip)–-----[谷歌](https://www.google.com/search?q=%E7%BD%91%E9%80%9F%E6%B5%8B%E8%AF%95)
 
 [测试github.io网速:示例视频](https://cz-6.github.io/f/example.mp4)
 
