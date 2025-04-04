@@ -6,7 +6,13 @@
 
 记得Star，加快更新速度，更容易查找，并且能在更新时收到通知
 
-测试github.io网速:示例视频
+<div align="center">
+  <h1 class="header">中华有为，国之荣耀</h1>
+  <h3>
+    示例视频（荣耀电话铃）
+  </h3>
+</div>
+
 https://cz-6.github.io/f/example.mp4
 
 写给我的鱼同学:
