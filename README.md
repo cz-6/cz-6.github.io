@@ -10,7 +10,7 @@
 
 [测试github.io网速:示例视频](https://cz-6.github.io/f/example.mp4)
 
-[数据正态分布计算概率](https://cz-6.github.io/f/数据正态分布计算概率.html)
+[数据正态分布计算概率](https://cz-6.github.io/f/正态分布/)
 
 写给我的鱼同学:
 
