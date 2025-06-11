@@ -20,7 +20,7 @@
 
 amb114cn@gmail.com
 
-微信号 a6c34
+微信号 amb114cn
 
 t.me/a6c34
 
