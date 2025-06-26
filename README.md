@@ -12,6 +12,8 @@
 
 [数据正态分布计算概率](https://cz-6.github.io/f/正态分布/)
 
+![cz-6被浏览次数](https : //profile-counter.glitch.me/cz-6/count.svg)
+
 写给我的鱼同学:
 
 湖北宜昌八中704
