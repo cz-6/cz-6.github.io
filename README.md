@@ -12,7 +12,7 @@
 
 [数据正态分布计算概率](https://cz-6.github.io/f/正态分布/)
 
-![cz-6被浏览次数](https://profile-counter.glitch.me/cz-6/count.svg)
+F24炸麦音频：[原音质](https://cz-6.github.io/f/2.wav)------------[预览音质](https://cz-6.github.io/f/mixed_tones.ogg)
 
 3.3，d1m期末：C99.5，M114，E111.4（满分120），H46，B53，政48（满分60），G44（满分50）
 
