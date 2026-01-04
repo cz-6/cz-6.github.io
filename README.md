@@ -1,6 +1,8 @@
 # cz-6.github.io
 
-[cz-6现在是Amb114/Amb114514短名称（仅Github有效）](https://github.com/Amb114)
+# [AmbWebCrypt · 2026 · 震撼上线！](https://cz-6.github.io/AmbWebCrypt)
+
+[不知道AmbWebCrypt是啥的人可以去看看Readme](https://github.com/cz-6/AmbWebCrypt)
 
 [cz-6](https://github.com/cz-6)------------[仓库](https://github.com/cz-6/cz-6.github.io)------------[另一个仓库](https://github.com/cz-6/f)
 
@@ -13,7 +15,5 @@
 [数据正态分布计算概率](https://cz-6.github.io/f/正态分布/)
 
 D24炸麦音频：[原音质](https://cz-6.github.io/f/2.wav)------------[预览音质](https://cz-6.github.io/f/mixed_tones_1.ogg)
-
-3.3，d1m期末：C99.5，M114，E111.4（满分120），H46，B53，政48（满分60），G44（满分50）
 
 联系我：t.me/a6c34
